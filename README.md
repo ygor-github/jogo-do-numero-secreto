@@ -16,7 +16,7 @@ Este é um jogo simples de adivinhação de números, onde o jogador deve adivin
 ## Como Jogar
 
 1. Abra o arquivo `index.html` em um navegador web.
-2. Escolha um número entre 1 e 10.
+2. Escolha um número entre 1 e 20.
 3. Clique no botão "Chutar" para verificar se o número está correto.
 4. O jogo irá informar se o número secreto é maior ou menor que o número escolhido.
 5. Continue tentando até acertar o número secreto.
