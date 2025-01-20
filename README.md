@@ -4,13 +4,13 @@ Este é um jogo simples de adivinhação de números, onde o jogador deve adivin
 
 ## Estrutura do Projeto
 . 
-├── app.js 
-├── img/ 
-│ ├── code.png 
-│ ├── ia.png 
-│ ├── Ruido.png 
-│ ├── bg.png 
-├── index.html 
+├── app.js
+├── img/
+│ ├── code.png
+│ ├── ia.png
+│ ├── Ruido.png
+│ ├── bg.png
+├── index.html
 ├── style.css
 
 ## Como Jogar
