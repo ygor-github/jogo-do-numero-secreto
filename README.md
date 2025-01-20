@@ -43,5 +43,4 @@ Este é um jogo simples de adivinhação de números, onde o jogador deve adivin
 - JavaScript
 
 ## Autor
-
-Este projeto foi desenvolvido por [Seu Nome].
+Este projeto foi desenvolvido pela Alura como caso de estudo no aprendizado de lógica de programação e o uso do Git e GitHub.
